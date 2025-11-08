@@ -1,12 +1,16 @@
 [submodule "libblkmaker"]
+	active = true
 	path = libblkmaker
-	url = git://github.com/bitcoin/libblkmaker.git
+	url = https://github.com/bitcoin/libblkmaker.git
 [submodule "ccan"]
+	active = true
 	path = ccan-upstream
 	url = git://git.ozlabs.org/~ccan/ccan
 [submodule "libbase58"]
+	active = true
 	path = libbase58
-	url = git://github.com/luke-jr/libbase58.git
+	url = https://github.com/luke-jr/libbase58.git
 [submodule "knc-asic"]
+	active = true
 	path = knc-asic
-	url = git://github.com/KnCMiner/knc-asic
+	url = https://github.com/KnCMiner/knc-asic
